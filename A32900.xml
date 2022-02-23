@@ -1,0 +1,342 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Christians way to heaven, or, What he must do to be saved by a divine of the Church of England.</title>
+            <author>Divine of the Church of England.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 36 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A32900</idno>
+            <idno type="STC">Wing C3962</idno>
+            <idno type="STC">ESTC R23847</idno>
+            <idno type="EEBO-CITATION">07915930</idno>
+            <idno type="OCLC">ocm 07915930</idno>
+            <idno type="VID">40401</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A32900)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 40401)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1202:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Christians way to heaven, or, What he must do to be saved by a divine of the Church of England.</title>
+                  <author>Divine of the Church of England.</author>
+               </titleStmt>
+               <extent>[1], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the year, 1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: pages cropped with loss of print.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Acts XVI, 30-31 --  Criticism, interpretation, etc.</term>
+               <term>Salvation.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:40401:1"/>
+            <pb facs="tcp:40401:1" rendition="simple:additions"/>
+            <p>THE Chriſtians WAY TO HEAVEN: OR, <hi>What He muſt do to be Saved?</hi>
+            </p>
+            <p>By a Divine of the Church of <hi>England.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed in the Year, MDCC.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:40401:2"/>
+            <opener>
+               <salute>My dear Friends</salute>
+            </opener>
+            <p>I Here offer to you a plain Sermon in <hi>Print.</hi> that it may ſtay longer with you, than it could do by the <hi>Preaching.</hi> It does contain, in ſhort, the main Duties of our Holy Reli<g ref="char:EOLhyphen"/>gion which we hope to be ſaved by, and which we ought at all Times to have preſent to our Minds. May the good God of Heaven bleſs it to your Edification, as, I Pray, he may do the reſt of the Endeavours of</p>
+            <closer>
+               <signed>Your Faithful Servant in Chriſt Jeſus.</signed>
+            </closer>
+            <pb facs="tcp:40401:2" rendition="simple:additions"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:40401:3"/>
+            <head>THE <hi>Chriſtians Way</hi> TO HEAVEN.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>ACTS XVI.xxx, xxxi.</hi>
+                  </bibl>
+                  <p>
+                     <bibl>
+                        <hi>xxx.</hi>
+                     </bibl> Sirs, What muſt I do to be Saved?</p>
+                  <p>
+                     <bibl>
+                        <hi>xxxi.</hi>
+                     </bibl> And they ſaid, Believe on the Lord, Jeſus Chriſt, and thou ſhalt be Saved, and thy Houſe.</p>
+               </q>
+            </epigraph>
+            <p>WHEN the Apoſtle St. <hi>Paul</hi> and his Companion <hi>Silas</hi> had, upon account of the uproar of the Multitude againſt them, been commanded to Priſon by the Magiſtrates, and had <hi>their Feet made faſt in the Stocks;</hi> God Almighty was pleaſed to ſhew a very great Miracle for their Deliverance. For upon their <hi>Praying and Singing Praiſes unto God, there was ſuddenly a very great Earth-quake, ſo that the Foundations of the Priſon were ſhaken; and immediately all the Doors were opened, and every ones Bands were looſed.</hi> This put the Keeper of the Priſon into a violent Conſternation, upon the ſuppoſed loſs of his Priſoners; ſo that he would, had he not been prevented, have laid violent Hands upon himſelf. But his Fear abated upon St. <hi>Paul</hi>'s aſſuring him they were all there, and the Senſe of the miraculous Occurrence ſo awaken<g ref="char:EOLhyphen"/>ed him into Religious Thoughts; that it put him upon enquiry <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:40401:4"/> theſe good Men taught, that their Religion was from God who had done ſo great a Miracle in favour of it; he did heartily believe, that that Salvation of Mens Souls in another World which they Preached, would be the Lot of all thoſe good Perſons who followed the Doctrines they were Preach<g ref="char:EOLhyphen"/>ers of; but ſtill he was ignorant of thoſe Precepts he was to Practice in Order to this Happineſs, and That was the Rea<g ref="char:EOLhyphen"/>ſon that with ſo great Earneſtneſs he cried out; <hi>Sirs, What muſt I do to be Saved?</hi> That is, I have now a mind to be a Chriſtian, and to enter into that Covenant with God, which he has been pleaſed to offer to Mankind by Jeſus Chriſt; of the Truth of whoſe Miſſion, and the Sincerity of whoſe Pro<g ref="char:EOLhyphen"/>miſes I am verliy perſuaded; but I beſeech you to inform me of the Conditions of this Covenant, which I am a perfect Stranger to, and to tell me what I am to do on my Part in order to attain that Happineſs, which God promiſes to con<g ref="char:EOLhyphen"/>fer on his. To this the Apoſtles anſwer, <hi>Believe on the Lord Jeſus Chriſt, and thou ſhalt be ſaved, and thy Houſe:</hi> That is, you ſhall obtain this your deſire of Everlaſting Happineſs, if you ſtedfaſtly believe, and ſincerely practice the Precepts of that Religion, which was declared to the World by Jeſus Chriſt; and which you ſhall learn by our Inſtruction. For it is plain, that by this the Apoſtles did not mean a bare be<g ref="char:EOLhyphen"/>lief, but a performance of the other Duties likewiſe recom<g ref="char:EOLhyphen"/>mended by the Goſpel Diſpenſation. For in the next Words it is ſaid, That <hi>they ſpake unto him the Word of the Lord, and to all that were in his Houſe;</hi> ver. 32. That is, they inſtruct<g ref="char:EOLhyphen"/>ed him in the Principles of the Chriſtian Religion, and ex<g ref="char:EOLhyphen"/>plained to him what he was to believe and practice in this Goſpel Covenant, that he might be Partaker of thoſe Pro<g ref="char:EOLhyphen"/>miſes he was deſirous of.</p>
+            <p>Now in diſcourſing to you upon theſe Words, I ſhall draw up in a narrow Compaſs all the General Rules and Obligations of the Chriſtian Religion, which will be uſeful for you upon theſe two Accounts.</p>
+            <p>
+               <hi>F rſt,</hi> Becauſe by this you may ſee your whole Duty at one View, which will be ſerviceable to you, in reducing into an eaſie-Method what you have Read and Heard in good Books and Sermons; and will be more eſpecially uſeful to them, who have not Time, or Money, to Read, or Buy large Treatiſes en theſe Subjects.</p>
+            <p>
+               <hi>Secondly,</hi> Becauſe by having theſe Terms of Salvation <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>dencies,
+<pb n="3" facs="tcp:40401:4"/> or uncomfortable Reflections upon Danger of your Miſcarriage in a Future State; for when you fully underſtand upon what Conditions every Man may certainly be ſaved; you need not trouble your ſelves to wait for any particular Marks of Aſſurance, which after all, a Man may be deceived in. But no Man has Reaſon to diſtruſt, that God Almighty will not Reward him with Eternal Happineſs, when he is ſure he has diſcharged thoſe Conditions which God in his Holy Word has promiſed Eternal Happineſs to.</p>
+            <p>Now theſe Conditions or Qualifications for Salvation, I ſhall reduce to as few Heads as conveniently I can, and ſpeak to them in their Order.</p>
+            <p n="1">I. <hi>You cannot be ſaved, unleſs you believe the Goſpel of Jeſus Chriſt, and the main Articles of Faith contained in it.</hi> For the Scripture ſays expreſly,<note place="margin">
+                  <hi>I. Condition,</hi> To believe all the Arti<g ref="char:EOLhyphen"/>cles of the Chriſtian Faith.</note> 
+               <hi>He that believeth and is baptized ſhall be ſaved, but he that believeth not ſhall be damned,</hi> Mark 18.16. Therefore you muſt believe, that there is<note n="*" place="margin">
+                  <hi>Deut.</hi> 4.25. 1 <hi>Cor.</hi> 8.4. <hi>Iſa.</hi> 45.5. <hi>John</hi> 17.3.</note> one only<note n="a" place="margin">
+                  <hi>Iſa.</hi> 48.12. <hi>Gen.</hi> 21.33. 1 <hi>Tim.</hi> 1.17.</note> Eternal,<note n="b" place="margin">
+                  <hi>Gen.</hi> 17.1. <hi>Mat.</hi> 3.9. <hi>Eph.</hi> 3.20.</note> Almighty,<note n="c" place="margin">
+                  <hi>Rom.</hi> 16.17. 1 <hi>Tim.</hi> 1.17. <hi>Job.</hi> 11.7.</note> All-wiſe, and<note n="d" place="margin">
+                  <hi>Exod.</hi> 34.6. <hi>Luke</hi> 1.50. 2 <hi>Cor.</hi> 1.3.</note> Merciful God, who Created<note n="e" place="margin">
+                  <hi>Exod.</hi> 31.17. <hi>Acts</hi> 17.24.</note> all Things by his Almighty Wiſdom and Power, and Governs<note n="f" place="margin">For the Providence of God, ſee Pſalm <hi>37.</hi> Prov. <hi>11.31.</hi> Job <hi>36.6.</hi> Mat. <hi>6.28.</hi>
+               </note> them by his Providence; that he has ſent his only Son Chriſt Jeſus into the World to Redeem by his Blood<note n="g" place="margin">
+                  <hi>John</hi> 8.42. 1 <hi>Tim.</hi> 1.15. <hi>Eph.</hi> 1.7.</note>, the forfeited Souls of ſinful Mankind; and you muſt believe, that there is the Holy Spirit<note n="h" place="margin">
+                  <hi>Joh.</hi> 24.16. <hi>Rom.</hi> 8.14. 1 <hi>Joh.</hi> 5.14.</note> of God the Comforter, which our Savi<g ref="char:EOLhyphen"/>our promiſed to ſend, which does conti<g ref="char:EOLhyphen"/>nually put into our Mind, good Deſires, does keep us from Temptations<note n="i" place="margin">2 <hi>Pet.</hi> 2.9. <hi>Rom.</hi> 8.26. <hi>Rev.</hi> 12.10.</note>, does ſanctifie<note n="k" place="margin">
+                  <hi>Tit.</hi> 3.5. 1 <hi>Cor.</hi> 6.11.</note> all good Mens Hearts, and render them acceptable unto God. You muſt ſtedfaſtly believe, that the Holy Scriptures are the<note n="l" place="margin">2 <hi>Tim.</hi> 3.16. 2 <hi>Pet.</hi> 2.21.</note> inſpired Word of God; and particularly, that the Mira<g ref="char:EOLhyphen"/>cles and Doctrines of our bleſſed Saviour were really true, and ſuch as they are there Recorded to be. Now unleſs you cordially believe theſe Things, you can have no pretence to enter into Covenant <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ith God in this Chriſtian Diſpenſation, <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#MURP" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>poſed
+<pb n="4" facs="tcp:40401:5"/> by Jeſus Chriſt; for otherways you are <hi>Infidels,</hi> and though you ſhould outwardly joyn your ſelves in Communi<g ref="char:EOLhyphen"/>on with Chriſt's Flock, yet you will receive no more Benefit by that, than if you were <hi>Mahometans</hi> or <hi>Pagans.</hi> Therefore in the firſt Place, you muſt take Care to have a firm Belief of theſe Things, and to <hi>be always ready to give an Anſwer to every Man, that asketh you a Reaſon of the Hope that is in you;</hi> that is, to believe the Doctrines of Chriſtianity upon rational Grounds, not to ſtick to them only upon the Prejudice of your Education, but becauſe upon full ſearch and enquiry, you find all the Reaſon in the World to believe them. Whenever you find any unbelieving Thought to riſe up in your Minds, which the Devil will never be wanting upon occaſion to ſuggeſt; uſe your utmoſt endeavour to ſhake off that ungodly Doubt, by confronting it with ſome indubita<g ref="char:EOLhyphen"/>ble Truth, or by getting further Information of abler Chri<g ref="char:EOLhyphen"/>ſtians;<note place="margin">
+                  <hi>John</hi> 5.39. <hi>Acts</hi> 17.4. <hi>Rom.</hi> 15.4.</note> but above all by conſtant read<g ref="char:EOLhyphen"/>ing and ſtudying God's Word, and by fervent Prayer to him to help your un<g ref="char:EOLhyphen"/>belief; for you may be aſſured, that ten to one more <hi>Infidels</hi> are made by a neglect of Reading the Scriptures, and of daily Prayers to God, than by all the poiſoned Books and Diſcourſes, which are levelled againſt our Religion. And I would have you obſerve further, (which is a great Argument for you to ſettle in your Hearts a firm Belief of all the Goſpel Truths) that there is hardly any wickedneſs which Men commit, or any Sin they fall into, but it proceeds chiefly from ſome kind of Infidelity or other; be<g ref="char:EOLhyphen"/>cauſe they do not rightly believe of the Providence of God, or his Juſtice, or Mercy, or Veracity, but have got into their Heads ſome fond Notion of their own concerning theſe Attri<g ref="char:EOLhyphen"/>butes, which may better agree with their vitious Lives, than that Idea which God has given of himſelf in his Holy Word. Therefore be ſure to be well Principled, and to have true Notions of theſe Matters; uſe your utmoſt endeavours firm<g ref="char:EOLhyphen"/>ly to Believe, and fully to underſtand all that the Holy Scrip<g ref="char:EOLhyphen"/>tures ſay concerning them; for this is the Foundation of all true Religion, and unleſs this be rightly laid, all the other Building, which may be raiſed afterwards, falls to the Ground and comes to nothing.</p>
+            <p n="2">II. <hi>After the believing of the Goſpel Truths;</hi>
+               <note place="margin">II. Condition. <hi>To a<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </hi>
+               </note> 
+               <hi>in the next Place in order to your <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <pb n="5" facs="tcp:40401:5"/> Covenant with Chriſt; you muſt leave off groſs and apparent Sins.</hi> For a Man whilſt he lives a leud and vicious Life, can have no hopes of Salvation; ſuch, by the whole Tenour of the Goſpel, being excluded from it. The Apoſtle St. <hi>Paul</hi> gives you a long Catalogue of ſuch Sins, as are inconſiſtent with Salvation. <hi>Now the Works of the Fleſh are manifeſt, which are theſe; Adultery, Fornication, <g ref="char:V">Ʋ</g>ncleanneſs, Laſcivi<g ref="char:EOLhyphen"/>ouſneſs, Idolatry, Witchcraft, Hatred, Variance, Emulations, Wrath, Strife, Seditions, Hereſies, Envyings, Murders, Drun<g ref="char:EOLhyphen"/>kenneſs, Revellings, and ſuch like; of which I tell you before, as I have told you in time paſt, that they which do ſuch things ſhall not inherit the Kingdom of God,</hi> Gal. 5.19.20.21. Therefore, if you would have any hope of going to Heaven, you muſt leave off a wicked Courſe of Life; you muſt take Care to repent of, and to forſake ſuch Sins as will ſhut you out from thence. You cannot expect to go thither, whilſt you live in a State of Adultery or Uncleanneſs; if you are not juſt in your dealings, and do not make Satisfaction and Reparation for all the Wrongs and Injuries you have done; if you live in a courſe of Drunkenneſs; if you are guilty of prophane Swearing and Curſing; if you live Quarelſomely and Contentiouſly with your Neighbours; if you be proud and haughty, malicious and revengeful. Therefore it behoves you, not only to be careful to avoid Drunkenneſs, Incontinency, and other fleſhly Sins, but to diveſt your ſelves of Pride and Malice, and o<g ref="char:EOLhyphen"/>ther Sins of the Mind; for theſe ſpiritual Vices are as much inconſiſtent with a State of Chriſtianity as the fleſhly; they do as much miſchief in this World, and make a Man as un<g ref="char:EOLhyphen"/>qualified for the other; and you may further take Notice, that the moſt wicked Beings of all God's Creation, I mean the Devils in Hell, have no Sins of the Fleſh to anſwer for, and yet they ſhall undergo the moſt terrible Damnation for their Pride and Malice, and other Sins of the Mind; which too many Men do look upon, in themſelves at leaſt, as hard<g ref="char:EOLhyphen"/>ly any Sins at all.</p>
+            <p n="3">III. <hi>In order to your Salvation you muſt take Care not only to avoid a ſettled Courſe of Wickedneſs, or a Life of Viciouſneſs,</hi>
+               <note place="margin">
+                  <hi>III. Condition.</hi> To avoid every ſingle Sin we know to be ſuch.</note> 
+               <hi>but to root out of your Hearts every ſingle Sin ye find there.</hi> There are a great many Men, that for the generality live good and vertuous <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut yet there is ſome boſom Sin they indulge them<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#MURP" extent="6 letters">
+                  <desc>••••••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="6" facs="tcp:40401:6"/> to part with all the reſt to retain that. Thus there are ſe<g ref="char:EOLhyphen"/>veral who can without any great difficulty refrain from In<g ref="char:EOLhyphen"/>temperance, or Covetouſneſs, or Pride, or Contention, ſo they may but enjoy their Luſt. To another Covetouſneſs is the only Darling; and he can be content to be chaſt and ſober, in hopes that God will excuſe him from being hard and griping. Miſtake not; God Almighty does expect to be loved with all the Mind, and all the Soul and all the Strength, <hi>Mat</hi> 12.30. <hi>We muſt perfect Holineſs in the fear of the Lord.</hi> 2 Cor. 7.1. <hi>And we are taught, that he who ſhall keep the whole Law, and offend in one Point, he is guilty of all,</hi> James 2.10. That is, he ſhall as effectually be damned for that one Sin unrepented of, as if he had been guilty of many more Sins. Therefore do not Cheat your ſelves, and Fool your ſelves out of your precious Souls; by thinking you ſhall ever go to Heaven, by ſerving of God by halves. God Almighty will ei<g ref="char:EOLhyphen"/>ther have your whole Souls or none, he will never ſuffer you to make him a ſharer with the Devil. Don't think it will avail you to ſay, it is but one Sin, for that one is fatal. For Sin to the Soul, is like a ſtrong Poiſon to the Body, a drop of it is as killing as if you drank a Gallon. So that upon the whole, you have no way to ſecure your Salvation; but by forſaking every known Sin, though never ſo ſmall in your O<g ref="char:EOLhyphen"/>pinion; if you know it to be Sin, you muſt know it to be damnable, and that there is no Salvation to be expected whilſt you continue in it. Therefore you muſt frequently ex<g ref="char:EOLhyphen"/>amine your Conſciences, and ſtrictly ſurvey and look into every Corner of your Soul, and whatever Sin you find there diſpatch it without any Quarter; and do not put it off from Time to Time, as being unwilling to part with it, but take the firſt opportunity to Repent of and amend it; beg God Almigh<g ref="char:EOLhyphen"/>ties Pardon for the former Commiſſion of it, and his Grace for the Future to avoid it.</p>
+            <p n="4">
+               <note place="margin">
+                  <hi>IV. Condition.</hi> To Practice all the Go<g ref="char:EOLhyphen"/>ſpel Virtues.</note>IV. <hi>The next ſtep you muſt make in or<g ref="char:EOLhyphen"/>der to be ſaved, is to Practice the Goſpel Virtues; which you find laid down in Gods Word for your Chriſtian Performance,</hi> For Chriſtianity does not conſiſt only of a few Negative Precepts, it does not oblige you juſt only to avoid Sin, but it engages you to the Performance of ſeveral Virtues and Graces; which unleſs you make your ſelves Ma<g ref="char:EOLhyphen"/>ſters of, you cannot be qualified for Heaven. Don't be cheat<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="7" facs="tcp:40401:6"/> good Man, as when they ſay, <hi>ſuch a one is a good Man, be<g ref="char:EOLunhyphen"/>cauſe, he does no Body any harm;</hi> as if 'twas enough to be Reli<g ref="char:EOLhyphen"/>gious, not to be miſchievous. For a Man may abſtain from this, upon account of good Nature and a Gentleman-like Education: And beſides, this ſingly of it ſelf is no great matter of Virtue, and is no more then what Stocks and Stones and tame Beaſts may pretend to, for they likewiſe do no Body any harm: But true Chriſtianity has in it more Spirit and Vigour, it is a Life of Action; and thoſe who pretend to it, muſt not only avoid all ill Things, but they muſt do a great many good ones.</p>
+            <p>You muſt Learn therefore to Practice the Chriſtian Grace of <hi>Humility;</hi>
+               <note place="margin">
+                  <hi>Humility,</hi> Mar. 20.26.</note> you muſt have as mean Thoughts as poſſi<g ref="char:EOLhyphen"/>ble you can of your ſelves, upon Conſideration that all you can boaſt of does proceed from the free Gift of God; you muſt not deſpiſe the meaneſt of your fellow-Creatures, but rather glorifie your gracious God, who has been pleaſed to beſtow on you more liberal Talents; and laſtly, you muſt ſhew to all a meek and courteous Behaviour; conſidering that they proceed from the ſame common Stock, and do par<g ref="char:EOLhyphen"/>take of the ſame common Nature with you, and that Chriſt condeſcended to Die for the pooreſt as well as the greateſt.</p>
+            <p>You muſt likewiſe adorn your Souls with <hi>Patience,</hi>
+               <note place="margin">
+                  <hi>Patience,</hi> Luke 21.19. James 5.8. 1 Pet. 2.20.</note> and bear your Afflictions with a true Chriſtian Magnanimity and Fortitude; and with a perfect Reſigna<g ref="char:EOLhyphen"/>tion to the good Will of God, conſider<g ref="char:EOLhyphen"/>ing that he ſends thoſe Sufferings out of a pure fatherly kind<g ref="char:EOLhyphen"/>neſs and Correction, to wean us from the World, and to bring us higher unto him; to give us Demonſtration of our Legitimacy in Grace, and that we are not Baſtards but Sons.</p>
+            <p>We muſt Learn likewiſe <hi>to forgive our Enemies, to do good to them that hate us,</hi>
+               <note place="margin">Forgiveneſs, and Love of our Enemes, <hi>Mat. 5.24.</hi>
+               </note> 
+               <hi>and pray for them that diſpitefully uſe us and perſecute us;</hi> conſidering that we have for this the expreſs Command and Example of our bleſſed Lord, and that a meek and a peace<g ref="char:EOLhyphen"/>able Diſpoſition is the greateſt Ornament of a Chriſtian, and does not only conduce to the Peace and Quiet of the World, but to a Mans own Satisfaction; whilſt Malice and Revenge <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o r<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>k the Soul with continual Torment and turn<g ref="char:punc">▪</g> Society <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <pb n="8" facs="tcp:40401:7"/>
+            <p>You muſt likewiſe endeavour to make your ſelves eminent in other Acts of <hi>Charity.</hi>
+               <note place="margin">
+                  <hi>Charity of Opinion,</hi> 1 Cor. 13.4.</note> You muſt be charitable in your Opinions and Cenſures of other Men: You muſt not be too forward in beleiving ſlanderous Reports, nor too buſie in relating other Mens failures; you muſt have a care of denouncing Damnation upon all who differ in Religious Matters from you, but let your Love go with them with whom your Opinion cannot.</p>
+            <p>You muſt according to your Abilities be liberal to the Poor,<note place="margin">
+                  <hi>Charity of Relief,</hi> Deut. 15.7. Pſalm. 41.1. Luke 14.13. Prov. 28.27</note> conſidering that God has made us, who are in a better Capacity, Stewards for them; that the Scriptures aſſures us, <hi>That he who is mer<g ref="char:EOLhyphen"/>ciful to the Poor, lendeth to the Lord;</hi> and therefore we may be ſure, when God Almighty has engaged himſelf to be our Debtor, he will repay us with the greateſt Intereſt</p>
+            <p>Our Religion obliges us yet further to a higher Duty,<note place="margin">
+                  <hi>Mortification and Self-denial,</hi> Mat. 5.29. Rom. 8.13. Col. 3.5.</note> and which does run a little more contrary to the ſtream of our natural Inclinations, and that is to Mortification and Self-denial. And to mortifie our Members, and to deny all Ungodlineſs and Worldly Luſts, <hi>Tit.</hi> 2.12. is not without Reaſon enjoyned us. For though we may live an ordinary Life of Virtue without undergoing theſe ſeverer Duties, yet it is very difficult to do it; and if we do not reſtrain and a<g ref="char:EOLhyphen"/>bridge our Appetites oftentimes in lawful Things, they will be apt to grow ſo Head-ſtrong, that we ſhall hardly be able to keep them from unlawful. Beſides, ſince God Almighty has deſign'd this World only as a State of Probation for the other, where there are none of theſe ſenſual Enjoyments to be found, it is but reaſonable we ſhould be ſomething wean<g ref="char:EOLhyphen"/>ed from thoſe lower Pleaſures, that we may be able to reliſh thoſe high and exalted ones which are deſigned for us hereaf<g ref="char:EOLhyphen"/>ter. Theſe, and all other Virtues which are perſcribed to you by God's Word, you muſt exerciſe your ſelves in, in this your Chriſtian Warfare; you muſt run this Race which God has ſet before you, if you would obtain the Crown which is laid up for you. And to do this the better, let this be your conſtant Rule<g ref="char:punc">▪</g> to do every Thing with readineſs which you <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#MURP" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>fore
+<pb n="9" facs="tcp:40401:7"/> Men, that is, to endeavour to ſhew the beſt Example in Religion, which without Oſtentation and Vanity you poſſi<g ref="char:EOLhyphen"/>bly can; and laſtly, to do all the good you can in your Ge<g ref="char:EOLhyphen"/>neration, if you do this ſincerely, tho' it may be with a great deal of Imperfection, God Almighty in his goodneſs will accept this imperfect for a compleat Obedience.</p>
+            <p n="5">V. <hi>Next in order to your Salvation you muſt be diligent in obſerving the Ordi<g ref="char:EOLhyphen"/>nances,</hi>
+               <note place="margin">
+                  <p n="5">V. Condition. <hi>To obſerve the Ordinan<g ref="char:EOLhyphen"/>ces of Chriſt and his Holy Church.</hi>
+                  </p>
+                  <p>
+                     <hi>Publick Prayer,</hi> Iſa. 50.7. Luke 18.8. Acts 3.1. Mat. 21.13. <hi>as well as Private.</hi>
+                  </p>
+                  <p>
+                     <hi>Morning and Even<g ref="char:EOLhyphen"/>ing,</hi> Mat. 7.7. Luke 18.1. Rom. 12.12. Eph. 6.18. Pſalm. 119.164.</p>
+               </note> 
+               <hi>which either Chriſt himſelf or his Holy Church hath inſtituted for the fur<g ref="char:EOLhyphen"/>therance of Godlineſs and true Religion.</hi> Therefore you muſt be conſtant in the Duty of Prayer, as well Publick as Pri<g ref="char:EOLhyphen"/>vate. You muſt at leaſt twice every Day, Morning and Evening, betake your ſelves to your Cloſets, or ſome private Place of your Houſes; and there Pray to God to forgive you whatever Offences you have committed, and to beg his Grace and Protection for the Time to come. If you neglect this Duty, you live the Lives of perfect <hi>Heathens,</hi> you quite put your ſelves out of Gods Favour and Care which good Chriſtians lay claim to, and have nothing but your bare Baptiſm to diſtinguiſh you from the Prophane <hi>Pagans.</hi>
+            </p>
+            <p>You muſt likewiſe, at leaſt upon Sun<g ref="char:EOLhyphen"/>days and Holidays attend the <hi>Publick Service of the Church;</hi>
+               <note place="margin">
+                  <hi>Benefit of Publick Prayer,</hi> John ch. 3. 2 Chron. 20.</note> for the Apoſtle Taxes the forſaking the Aſſemblies as a great fault, <hi>Heb.</hi> 10.25. And in the Publick Congregation we may expect our Prayers to be ſoon<g ref="char:EOLhyphen"/>er heard, when they are joyned with the united Prayers of ſo many good People.</p>
+            <p>You muſt likewiſe be very diligent and attentive <hi>in hearing the Word of God,</hi>
+               <note place="margin">Hearing the Word and that from our own Miniſters, <hi>Rom. 10.17. Luke 8.18.</hi>
+               </note> as it is Preached by his Miniſters, for the Scripture tell us, <hi>That Faith cometh by Hearing,</hi> Rom. 10.17. And therefore you ought not to flight this great means of your Salvation. Neither muſt you indulge your ſelves in ſilly Fancies in liking, or not liking your Miniſters Phraſe or Action but you ought chiefly to mind the Subſtance of <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="10" facs="tcp:40401:8"/> meaneſt Miniſter of the Goſpel, if you hear him with that ſo<g ref="char:EOLhyphen"/>berneſs you ought; for let me tell you, the fault of your not profiting does not ſo much lie in unedifying Miniſters, as in unpractiſing Congregations. Nor muſt you run about, gad<g ref="char:EOLhyphen"/>ding to other Churches to hear others you are better pleaſed with; for beſides, the great fault you commit in diſcouraging your own Miniſters endeavours; you cannot expect that God ſhould afford the ſame Bleſſing to the hearing of the Word out of the Method he has preſcribed, and from thoſe to whom he has not given Charge of your Souls.</p>
+            <p>You muſt likewiſe be conſtant in <hi>Rea<g ref="char:EOLhyphen"/>ding Gods Word,</hi>
+               <note place="margin">
+                  <hi>Reading the Holy Scriptures,</hi> Mat. 22.29. Joh. 5.39. Acts 17.11.</note> or getting it read to you, for this is the moſt conſiderable Motive you can make uſe of to a good Life: Becauſe then you here God Al<g ref="char:EOLhyphen"/>mighty himſelf ſpeaking to your Con<g ref="char:EOLhyphen"/>ſciences, whoſe Authority will prevail much more with you than our Preaching; and beſides, by this you may examine the Doctrine which we Teach, and ſee that we do not im<g ref="char:EOLhyphen"/>poſe upon you, but Preach to you what is agreeable to that excellent Rule.</p>
+            <p>You muſt furthermore, as frequently, as conveniently you may,<note place="margin">Frequent Receiving the Lords Supper.</note> Receive the <hi>Holy Sacrament of our Lords Body and Blood;</hi> for whilſt you Live in a conſtant neglect of this, you have little pretence to be Chriſtians, becauſe our bleſſed Lord has commanded all his Followers to <hi>do this in remembrance of him;</hi> and if you will not thus re<g ref="char:EOLhyphen"/>member him, and ſhew this Token your Communion with him and his Church; you do in effect deny your Baptiſmal Vow, and turn Renegoado's to the Religion of Chriſt. This is the Oath of Fidelity to your heavenly Prince, which he has required of you frequently to renew, which if you refuſe, you caſt of all Allegiance and Subjection to him, and turn Rebels to his Adminiſtration. Whilſt you neglect this, you deprive your ſelves of the Grace of God's Holy Spirit, which is plen<g ref="char:EOLhyphen"/>tifully conveyed by a due receiving this Holy Sacrament; you leave your Souls defenceleſs againſt all the Aſſaults of the World, the Fleſh, and the Devil which may attack them; and defraud your ſelves of the Seal of Gods Pardon for Sin, which is fully given to all worthy Receivers.</p>
+            <pb n="11" facs="tcp:40401:8"/>
+            <p>You muſt alſo religiouſly obſerve all the <hi>Feaſts and Faſts</hi> of the Church,<note place="margin">Religious obſerving Sundays and Holi<g ref="char:EOLhyphen"/>days</note> not only by coming to Church on Sundays, Faſt-days, and Holidays, but by dedica<g ref="char:EOLhyphen"/>ting beſides, ſome conſiderable part of them to your Religious Exerciſes in Private.</p>
+            <p>You muſt laſtly take Care to bring your Children, as ſoon as may be,<note place="margin">Bringing Children to Publick Baptiſm.</note> to partake of the <hi>Holy Sacrament of Bap<g ref="char:EOLhyphen"/>tiſm,</hi> not at Home, as is the vain and ir<g ref="char:EOLhyphen"/>religious Faſhion of ſome, but to Church where the Sacra<g ref="char:EOLhyphen"/>ment may be more ſolemnly adminiſtred, and where your Children may partake of the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oynt Prayers of the Congrega<g ref="char:EOLhyphen"/>tion of God's People: And when you have done ſo, you muſt ſee them well inſtructed in the Principles of the Chriſtian Re<g ref="char:EOLhyphen"/>ligion, and that they come to take their Religion upon them<g ref="char:EOLhyphen"/>ſelves, which their Sureties in Baptiſm pro<g ref="char:EOLhyphen"/>miſed they ſhould,<note place="margin">Catechiſm and Con<g ref="char:EOLhyphen"/>firmation.</note> when the Biſhop does adminiſter the Sacred Ordinance of Confirmation.</p>
+            <p n="6">VI. <hi>Laſtly, in order to Salvation,</hi>
+               <note place="margin">
+                  <hi>VI. Condition.</hi> To Watch againſt all Temptations and Failures.</note> 
+               <hi>you muſt take Care to Exerciſe another Duty, which is particularly recommended by our Saviour, as a guard to all the reſt; and that is Watchfulneſs,</hi> Mat. 24.42. and 25.14, Acts 20.31. Though you have truly repented of your Sins, and got into a Habit of Virtue and a Religious Courſe of Life; yet if you have not a great guard upon your ſelves, you will inſenſibly relapſe again into your former Condition. For you muſt needs think that the Devil will uſe the utmoſt of his ſpight and cunning, and will play his main Batteries up<g ref="char:EOLhyphen"/>on thoſe, who have forſaken his Cauſe, and are obedient to the Kingdom of Jeſus Chriſt. The Holy Scripture informs you, that he goes about <hi>like a roaring Lyon, ſeeking whom he may devour,</hi> 1 Pet. 5.8. And you may reaſonably ſuppoſe, that he will devour none ſo eaſily, as thoſe Chriſtians who live off of their Guard. Therefore when you have forſaken a Courſe, of Sin, and are arrived at a tolerable Perfection of Virtue and Godlineſs, don't ſit down ſecure, as if there was nothing more to be done; for in your Chriſtian Warfare there is Work enough to go forwards in, as long as you live. It re<g ref="char:EOLhyphen"/>quires <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> great deal of Diligence and Circumſpection to keep
+<pb n="10" facs="tcp:40401:9"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="11" facs="tcp:40401:9"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="12" facs="tcp:40401:10"/> all Temptations and to maintain your Integrity in a vitious Age when Wickedneſs is ofttimes applauded, and Vertue meets with ſo great diſcouragements. But there is hardly any ſtanding at a ſtay in a Religious Courſe; you will ei<g ref="char:EOLhyphen"/>ther go <hi>forwards</hi> or <hi>backwards,</hi> and therefore be <hi>watchful,</hi> that you do not move the wrong Way; and this you can<g ref="char:EOLhyphen"/>not be ſure of, unleſs, as long as you live, you be impro<g ref="char:EOLhyphen"/>ving in Vertue. I do not doubt, but many Chriſtians are in a ſalvable State, that are ſubject to many Imperfections and Failures; but, as they live on, they muſt ſtill go forwards in the Conqueſt of theſe. A ſincere Penitent who is juſt come out of a flagitious Courſe of Life, has enough to do to fence againſt the groſs Sins he has ſo much been accuſtom'd to; but God expects from one, who has been long habitu<g ref="char:EOLhyphen"/>ated to a Courſe of Godlineſs, that he ſhould be very watch<g ref="char:EOLhyphen"/>ful againſt <hi>all</hi> human Imperfections whatſoever. Such a one muſt not think ſo eaſily to be excuſed from Sins of Ignorance, when after a long Exerciſe in hearing and reading God's Word, he might have better informed himſelf of his Duty; he cannot ſo well plead Sins of Infirmity, when his Nature has very conſiderably loſt its byaſs to Sin by a long Courſe of Vertue. Therefore good Chriſtians muſt be going forwards in a State of Virtue as long as they live, they muſt be ſtill bettering and improving their Natures, more and more in<g ref="char:EOLhyphen"/>forming their Underſtandings in Religious Truths, and recti<g ref="char:EOLhyphen"/>fying their Wills; they will find Work enough to watch againſt all imprudent and offenſive Actions, againſt idle Words, a<g ref="char:EOLhyphen"/>gainſt ſudden Anger, againſt coldneſs and ſome involuntary Excurſions in Devotion. And for an incouragement to this Progreſs, God Almighty will not only Reward them with a bare <hi>ſaving their Souls,</hi> but will liberally beſtow on ſuch the Ten Talents, <hi>Luke</hi> 19.24. He will advance them accord<g ref="char:EOLhyphen"/>ing to their Improvement in Piety, to one of the higheſt Thrones in the Heavenly Kingdom; <hi>For one Star differeth fr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m another Star in Glory,</hi> 1 Cor 15.41.</p>
+            <p>And now let me ſpeak a Word or two, by way of Exhor<g ref="char:EOLhyphen"/>tation and Inference from what has been ſaid.</p>
+            <p>
+               <hi>Firſt,</hi> Let me apply my ſelf to the more mature and elderly Sort among you,</p>
+            <p>You have long ſince been inſtructed in the Principles of the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hriſtian Religion, you have had the Catechetical Inſtructi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of the Church in <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="13" facs="tcp:40401:10"/> Years, and therefore you ought not only to know your Du<g ref="char:EOLhyphen"/>ty, but to be conſiderable Proficients in it. It is a ſhame for you to be ignorant of thoſe Chriſtian Doctrines, which the Children are taught to underſtand; and then to Learn the Way to Heaven, when you have hardly Time perhaps before Death to do it in. Oh! What a killing Speech is it to hear a Man ſay, he did underſtand his Religion when he was Young? Wretched Sinner! What haſt thou been doing all this Time? You that ought to have been the Teacher of Religion to others, doſt thou want the very firſt Inſtructions of this Duty thy ſelf? How canſt thou anſwer it to God, to retain thy Trade, thy Debts, and every thing elſe in Mind, and only to have forgot thy Religion? If there be any ſuch among you, get out of this wicked careleſneſs as ſoon as you can, apply your ſelves to the reading the Holy Scriptures and other good Books, come conſtantly to Church, and Mind what is there ſaid, and be aſhamed to continue in ſuch Ig<g ref="char:EOLhyphen"/>norance any longer.</p>
+            <p>As for you who have not been ſo very negligent as to for<g ref="char:EOLhyphen"/>get your Duty, but yet nevertheleſs in deſpight of your Knowledge, and under Conviction of your own Conſciences do live in conſtant breach of it; free your ſelves with all ſpeed from this hazardous State, and venture not your Souls in a State of Sin, which you know to be damnable, one mo<g ref="char:EOLhyphen"/>ment longer. How can you Anſwer it to the Mercy of God, to continue in a Courſe of Wickedneſs, when he has given you ſo much Time to Repent in? How can you anſwer it to your own Conſciences, which are continually upbraiding you with a neglect of your Duty? How can you Anſwer it to your Children and Families, to whom you ſhould give an Ex<g ref="char:EOLhyphen"/>ample of Piety and Religion; but you ſet them a Copy on<g ref="char:EOLhyphen"/>ly of Prophaneſs and Wickedneſs?</p>
+            <p>As for thoſe good Perſons among you, who have been mindful of the one thing neceſſary, and taken Care for their Souls; who have acquainted themſelves <hi>what they are to do to be ſaved,</hi> and have made their Practice conformable to their Knowledge; let me beſeech you, my dear Brethren, to pay God your continual Thanks for this great meaſure of Grace beſtowed upon you, to be modeft and humble in your vertuous Accompliſhments; and to aſcribe all your ſpiritual Strength to the goodneſs of God, to endeavour more and more to improve in Grace, and like St. <hi>Paul<g ref="char:punc">▪</g> to forget th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <pb n="14" facs="tcp:40401:11"/> are before, and preſſing towards the Mark, for the prize of the high Calling of God in Chriſt Jeſus,</hi> Phil. 3.13.14.</p>
+            <p n="2">2. And for the cloſe of all, Let me apply my ſelf to the Younger ſort among you.</p>
+            <p>Let me beſeech you to bear in mind the good Inſtructions and Chriſtian Information, which you receive from your Pa<g ref="char:EOLhyphen"/>ſtors and Friends in your Youth; and let what you Learn in thoſe tender Years remain freſh in your Memories under the Hoary Head, Let me beſeech you to enter upon a Religious Courſe of Life betimes, becauſe now you have all the Advan<g ref="char:EOLhyphen"/>tages in the World to go forwards in it. You have no inve<g ref="char:EOLhyphen"/>terate Habits, and old Cuſtoms of Sinning, to conflict with, which oftentimes render all the endeavours of a riper Age, ineffectual. Your Nature now is tender and pliable, and as it takes its bent in this Age, it does for the moſt part ſtand for ever. Therefore this is the Time to give it a vertuous Impreſſion, and a true Byaſs to Holineſs, before the Devil takes Poſſeſſion of it, and warps it the contrary way. Think how pleaſing and acceptable to God an early Piety is, and what an affront it is to Dedicate only the Dregs of your Life to his Service, and the Flower of it to the Devil.</p>
+            <p>Endeavour to ſettle in your Minds now you are Young, a true Taſt of Godlineſs, and of the Excellency of the Chriſti<g ref="char:EOLhyphen"/>an Religion; which above all other Religions which ever were in the World, does more eſpecially recommend it. Weigh in your Hearts ſeriouſly the admirable Rewards which it promiſes to thoſe who perform the Conditions of the Goſpel, and be not led aſide by the Vanities of this World, to forfeit thoſe exceeding Glories of the other. And when you are fully informed, <hi>What you muſt do to be Saved,</hi> take Care that you do not miſs of that Salvation, whereof you know the Methods of obtaining.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:40401:11"/>
+         </div>
+      </body>
+   </text>
+</TEI>
